@@ -1,0 +1,51 @@
+Series Name,Series Code,Country Name,Country Code,2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022]
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,India,IND,34.75,34.86,33.85,33.4,33.01,32.57,32.73,33.27,35.82,..,..
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,Brazil,BRA,43.49,42.32,41.71,43.62,45.46,45.33,46.95,47.58,50.05,..,..
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,South Africa,ZAF,8.49,7.94,7.72,7.73,7.97,8.03,8.07,8.84,9.76,..,..
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,China,CHN,11.53,11.47,11.91,12.18,12.6,13.14,13.55,14.33,14.81,..,..
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,Indonesia,IDN,30.09,30.63,29.29,26.58,27.77,24.88,22.05,19.77,22.01,..,..
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,India,IND,1.498204123,1.5276744,1.642465277,1.631323487,1.639914019,1.704926721,1.795595299,1.752534366,1.576093232,..,..
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,Brazil,BRA,2.271417684,2.413446537,2.51459196,2.365360621,2.161259847,2.185486619,2.064261479,2.050770129,1.942523356,..,..
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,South Africa,ZAF,8.034649259,8.116434954,8.191152527,7.607188524,7.544589571,7.683707811,7.667377025,7.688907623,6.687563147,..,..
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,China,CHN,7.04520023,7.320154925,7.304712872,7.145131535,7.105479936,7.226160154,7.533193134,7.645435786,7.756137907,..,..
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,Indonesia,IDN,1.925450048,1.770402032,1.891427827,1.887564481,1.848303852,1.948574431,2.126836838,2.245285771,2.071658962,..,..
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,India,IND,52150000000,59079000000,66931000000,74143000000,..,..,..,..,..,..,..
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,Brazil,BRA,40287000000,46977000000,58221000000,70487000000,..,..,..,..,..,..,..
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,South Africa,ZAF,332000000,383000000,2251000000,4763000000,..,..,..,..,..,..,..
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,China,CHN,1.32E+11,1.94E+11,2.30E+11,2.84E+11,..,..,..,..,..,..,..
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,Indonesia,IDN,9678000000,9583000000,10987000000,11181000000,..,..,..,..,..,..,..
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,India,IND,1.312934538,1.516276477,1.695659598,2.092115227,1.937364119,1.507315832,1.558214839,1.784826349,2.409135951,1.419775276,1.475300809
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,Brazil,BRA,3.754962108,3.041509229,3.571352613,3.592149731,4.137378539,3.338260284,4.077487084,3.692673304,2.559860419,2.815132448,4.765497376
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,South Africa,ZAF,1.064922495,2.053580952,1.519327438,0.438735792,0.684612553,0.539673957,1.378037844,1.316779217,0.934055029,9.703406185,2.265458101
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,China,CHN,2.827105258,3.039855032,2.55924765,2.192177616,1.555636959,1.349123714,1.69389433,1.310715934,1.72317562,1.930786241,1.002979297
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,Indonesia,IDN,2.309780318,2.551356334,2.819972604,2.297616394,0.487372471,2.019489198,1.814289794,2.233362043,1.81058402,1.787862013,1.624466291
+Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,India,IND,8904400000,2952700000,2816630000,2086940000,1686930000,1311630000,1639510000,856350000,3321000000,1621240000,2503340000
+Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,Brazil,BRA,29729630000,9576120000,9440600000,5573180000,14598300000,5813300000,4947340000,6309570000,5899740000,2670270000,5151490000
+Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,South Africa,ZAF,5648610000,3941690000,87000000,3906440000,779400000,..,4313240000,..,..,826300000,1843030000
+Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,China,CHN,3174900000,3682930000,1647500000,3186650000,3386891000,2950270000,265510000,9710000,838180000,264410000,327400000
+Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,Indonesia,IDN,1901000000,1936700000,1690500000,191000000,8068800000,8839500000,3420100000,290000000,..,150000000,..
+Urban population growth (annual %),SP.URB.GROW,India,IND,2.470338202,2.457264391,2.423844627,2.394052977,2.413097263,2.407475136,2.359169975,2.315801985,2.263634557,2.125468465,2.024671217
+Urban population growth (annual %),SP.URB.GROW,Brazil,BRA,1.244776637,1.204555809,1.189409325,1.170641414,1.127882077,1.102096588,1.094558477,1.060237553,0.951553411,0.808423004,0.731782792
+Urban population growth (annual %),SP.URB.GROW,South Africa,ZAF,2.16396302,2.181679686,2.386571512,2.873153342,1.760214053,1.163250053,1.989499664,2.047265766,1.965304746,1.728207354,1.557749124
+Urban population growth (annual %),SP.URB.GROW,China,CHN,3.130656596,3.048365006,2.953497442,2.842870548,2.775641769,2.73966382,2.503400504,2.290177234,2.078140058,1.838530282,1.649480857
+Urban population growth (annual %),SP.URB.GROW,Indonesia,IDN,2.592946074,2.528333014,2.459840852,2.390745353,2.318954028,2.239796021,2.177306227,2.123580212,2.005320259,1.834015854,1.754389675
+Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,India,IND,0.743990004,0.706420004,0.701590002,0.693099976,0.669839978,0.66602999,0.655730009,..,..,..,..
+Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,Brazil,BRA,1.126839995,1.195670009,1.269709945,1.370929956,1.286370039,1.117499948,1.167690039,1.208029985,..,..,..
+Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,South Africa,ZAF,0.669340014,0.663299978,0.709869981,0.731469989,0.749920011,0.762570024,0.686569989,0.615249991,..,..,..
+Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,China,CHN,1.912140012,1.997859955,2.022429943,2.057009935,2.100330114,2.116029978,2.140579939,2.244630098,2.400929928,..,..
+Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,Indonesia,IDN,..,0.084700003,..,..,0.245350003,0.238049999,0.226319999,0.271299988,0.280840009,..,..
+"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,India,IND,3.867500067,3.844670057,..,4.114570141,4.254079819,4.305449963,4.363739967,4.4072299,4.474229813,..,..
+"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Brazil,BRA,5.855100155,5.838850021,5.948480129,6.24105978,6.314040184,6.32047987,6.088510036,5.963469982,..,..,..
+"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,South Africa,ZAF,5.523230076,5.350719929,5.489779949,5.482850075,5.444240093,5.598670006,5.644010067,5.917709827,6.192880154,6.604660034,..
+"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,China,CHN,4.077429771,3.852509975,3.726639986,3.82487011,3.79362011,3.667449951,3.542490005,3.539999962,3.569999933,..,..
+"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Indonesia,IDN,3.407480001,3.359040022,3.288009882,3.583600044,3.5,2.669980049,3,2.841850042,3.49000001,..,..
+Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,India,IND,72.41907946,72.28545864,73.57697909,..,..,..,..,..,..,..,..
+Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,Brazil,BRA,56.54889227,58.01808225,59.10753264,..,..,..,..,..,..,..,..
+Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,South Africa,ZAF,87.15523381,86.57530458,86.79143169,..,..,..,..,..,..,..,..
+Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,China,CHN,88.41916221,88.23749257,87.67043077,..,..,..,..,..,..,..,..
+Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,Indonesia,IDN,65.34475065,65.26568681,66.08947546,..,..,..,..,..,..,..,..
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,India,IND,..,..,..,..,..,..,2.390000105,..,3.470000029,..,..
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,Brazil,BRA,..,..,..,..,0.764900029,0.806580007,0.957949996,..,..,..,..
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,South Africa,ZAF,..,..,0.75553,1.17919004,..,1.460790038,..,2.183379889,..,..,..
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,China,CHN,..,..,..,..,..,..,..,..,..,..,..
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,Indonesia,IDN,..,..,0.564450026,0.516470015,0.548629999,..,0.614300013,..,0.618369997,..,..
